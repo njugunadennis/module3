@@ -1,0 +1,51 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #2B65EC;
+
+}/*
+.navbar-default .container{
+
+}*/
+#header-nav  {
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+}
+#header-nav  .navbar-brand a h1 {
+	color: #E56717;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	text-align: left;
+}
+.navbar-brand a h1{
+	margin-top: -15px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #54C571;
+  }
+#nav-list{
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #F87217;
+}
+h2 {
+	color: #222;
+	text-align: center;
+}
+.container{
+	margin-left: 0;
+}
+ .container section h3{
+ 	margin-top: 0;
+ 	padding: 0 ;
+ 	margin-bottom: 0;
+	height: 1000px;
+	text-align: center;
+}
+#content p {
+	margin-top: -950px;
+}
